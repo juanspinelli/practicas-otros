@@ -1,9 +1,0 @@
-jupyter
-keras
-tensorflow-gpu
-pandas
-numpy
-matplotlib
-scipy
-tqdm
-requests
